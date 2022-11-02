@@ -8,4 +8,6 @@ There are 3 separate project inside this repository, that work together in order
 
 * mobile app
 
+Each project will have its own README.
+
 This was made possible by Rocketseat.
